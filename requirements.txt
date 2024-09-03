@@ -1,0 +1,7 @@
+selenium
+streamlit
+json2html
+seleniumbase
+pymongo
+webdriver-manager
+python-Levenshtein
