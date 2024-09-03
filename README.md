@@ -17,7 +17,7 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://github.com/devansh=bhardwaj/Config-Guides-Database/images/image1.png)
-![App Screenshot](https://github.com/devansh-bhardwaj/Config-Guides-Database/images/image2.png)
-![App Screenshot](https://github.com/devansh-bhardwaj/Config-Guides-Database/images/image3.png)
+![App Screenshot](./images/image1.png)
+![App Screenshot](./images/image2.png)
+![App Screenshot](./images/image3.png)
 
